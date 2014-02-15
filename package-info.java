@@ -5,4 +5,4 @@
  * @author Mario
  *
  */
-package juguemos;
+package juguemos2;
